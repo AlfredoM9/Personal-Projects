@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284456840910",
+    "firebase_url": "https://shpeapp-590ba.firebaseio.com",
+    "project_id": "shpeapp-590ba",
+    "storage_bucket": "shpeapp-590ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284456840910:android:5545e728e427b31492ea9f",
+        "android_client_info": {
+          "package_name": "com.example.shpeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284456840910-m4pv0t31mq1rau75mf7bvl738366ipiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shpeapp",
+            "certificate_hash": "17faaa701051babeb45a6f1351e1ba6b9b001e41"
+          }
+        },
+        {
+          "client_id": "284456840910-o6aneqr4r2ooniaaj7pga1u2kndn8s1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9bD_-nOFTINHEw14Ibbg1G7mQ6er9LaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284456840910-o6aneqr4r2ooniaaj7pga1u2kndn8s1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

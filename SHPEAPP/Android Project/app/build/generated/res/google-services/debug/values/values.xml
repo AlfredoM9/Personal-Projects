@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">284456840910-o6aneqr4r2ooniaaj7pga1u2kndn8s1l.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shpeapp-590ba.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">284456840910</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9bD_-nOFTINHEw14Ibbg1G7mQ6er9LaY</string>
+    <string name="google_app_id" translatable="false">1:284456840910:android:5545e728e427b31492ea9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9bD_-nOFTINHEw14Ibbg1G7mQ6er9LaY</string>
+    <string name="google_storage_bucket" translatable="false">shpeapp-590ba.appspot.com</string>
+    <string name="project_id" translatable="false">shpeapp-590ba</string>
+</resources>

@@ -1,0 +1,73 @@
+.picture {
+    max-width: 85%;
+    height: auto;
+    border-style: double;
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: black;
+}
+
+.picture:hover {
+    border-color: purple;
+}
+
+.picContainer {
+    float: left;
+    width: 40%;
+    padding: 0px;
+    text-align: center;
+    font-family: Nunito;
+    font-size: x-large;
+}
+.content {
+    overflow-wrap: break-word;
+    font-family: Nunito;
+    padding: 25px;
+}
+
+.content .heading {
+    font-size: 35px;
+    color: purple;
+}
+
+.content .quote {
+    font-style: oblique;
+    font-size: larger;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.list li {
+    padding: 15px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.value {
+    color: purple;
+    font-weight: lighter;
+    font-size: large;
+}
+
+.icon {
+    width: 5%
+}
+@media (max-width: 1140px){
+    .picture {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 40%;
+    }
+    .picContainer {
+        width: 100%;
+        font-size: large;
+    }
+    .content {
+        float: left;
+    }
+}
+
+
