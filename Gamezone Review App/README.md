@@ -1,0 +1,2 @@
+# Description
+Created a react native app that allows a user to create a review, give it a star rating shown in the form of hearts (life), and post it to a feed. The home page is the home feed and there is a add button to display a modal. The modal then uses another component to display and store the state of the review. The review uses Formik and Yup (packages) that enables on submit functions and validation. Then after the review as been submitted, the modal closes and the home page is updated in its feed with the new review. 

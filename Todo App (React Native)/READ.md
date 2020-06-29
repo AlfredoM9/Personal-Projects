@@ -1,0 +1,2 @@
+# Description
+Developed a to-do app using react native. The react native app simply uses state and components to update the state shown in the home screen. As the user types in the insert box and clicks submit the state is updated and which updates the visuals in the home feed. In addition, when the to-do is clicked, the state is once more updated by deleting it and so is the visuals. If no to-dos are displayed, then a message saying “No to-dos” is shown to the user.

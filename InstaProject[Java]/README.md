@@ -1,0 +1,2 @@
+# Description
+Created a program that reads in two files, one that should contain the names of your followers in social media and another that contains the names of the people you are following. The program then uses an algorithm to distinguish which names you are not following and the names of people you don’t follow you. This is then visually displayed to the user.

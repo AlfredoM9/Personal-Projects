@@ -1,3 +1,7 @@
+# Project Description
+Developed a simple react app that enables you to add users to the list of friends. The form is on the home page and dynamically updates your home feed of list of friends. Each component that corresponds to an added friend, a button shows that enables the user to delete that friend. If deleted, the state is updated, and the feed is no longer shows that friend.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

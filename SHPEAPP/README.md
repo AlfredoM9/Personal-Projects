@@ -1,1 +1,2 @@
-# SHPEAPP
+# Description
+Created a Java mobile app with a team for the student organization called Society of Hispanic Professional Engineers at UTD. The UI was done by me using Adobe XD and after I integrated the UI into Android Studio. In addition, I used Google Authentication provided by Firebase to log in users into the application. The project was soon discontinued due to complications and became the now react native project called Student Organization App.

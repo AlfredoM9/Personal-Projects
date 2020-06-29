@@ -1,3 +1,6 @@
+# Project Description
+ Created a to-do app using react. The to-do provides basic functionality of a to-do app, as the user can add to-dos which is shown in the home feed and it can be deleted from the home-feed. This is done by using the state of the component as it adds and delete to-dos the state is updated. Materialized CSS was used to style to to-do app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
