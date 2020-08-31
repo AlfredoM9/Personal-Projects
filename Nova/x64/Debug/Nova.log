@@ -1,0 +1,6 @@
+﻿  uic Nova.ui
+  moc Nova.h
+  Nova.cpp
+  main.cpp
+  moc_Nova.cpp
+  Nova.vcxproj -> D:\Documents\GitHub\Personal-Projects\Nova\x64\Debug\Nova.exe
