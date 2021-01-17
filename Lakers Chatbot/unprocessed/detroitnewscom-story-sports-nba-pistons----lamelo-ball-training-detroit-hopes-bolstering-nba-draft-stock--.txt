@@ -1,5 +1,0 @@
-Get Access
-<p class="snsm-text">Have an existing account?</p>
-<p class="snsm-text">Already have a subscription?</p>
-<p class="snsm-text snsm-text-register">Don't have an account?</p>
-<p class="site-footer-meta-text site-footer-meta-text-fixed-width">© 2020 The Detroit News, a Digital First Media Newspaper. All rights reserved.</p>

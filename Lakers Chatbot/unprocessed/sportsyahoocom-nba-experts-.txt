@@ -1,5 +1,0 @@
-Yahoo Sports NBA
-<p class="Pos(a) B(0) W(100%)" data-reactid="27"><span class="D(b) Bdw(6px) W(0) Fz(0) Lh(0) M(a)" data-reactid="28" style="border-style:solid;border-color:transparent transparent #fff;"></span></p>
-<p class="Fz(14px) Lh(19px) Fz(13px)--sm1024 Lh(17px)--sm1024 LineClamp(2,38px) LineClamp(2,34px)--sm1024 M(0)" data-reactid="16">It's been a tough year for the NBA. Things might be about to get tougher.</p>
-<p class="Fz(14px) Lh(19px) Fz(13px)--sm1024 Lh(17px)--sm1024 LineClamp(2,38px) LineClamp(2,34px)--sm1024 M(0)" data-reactid="35">The elder Ball doesn't want any NBA team currently in the top five of the draft to take his youngest son.</p>
-<p class="Fz(14px) Lh(19px) Fz(13px)--sm1024 Lh(17px)--sm1024 LineClamp(2,38px) LineClamp(2,34px)--sm1024 M(0)" data-reactid="54">NBA agents haven't enjoyed watching the rise of Rich Paul and Klutch Sports with the support of LeBron James.</p>

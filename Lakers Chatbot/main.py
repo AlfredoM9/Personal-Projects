@@ -1,6 +1,5 @@
 """"********************************************************************************************************************
 Author: Alfredo Mejia
-Class : CS 4395.001
 Date  : 11/1/20
 Descrp: This program is an implementation of a very simple and naive chatbot. This chatbot has a domain knowledge around
         the Los Angeles Lakers and can only speak regarding that subject. At times, the chatbot answers perfectly at

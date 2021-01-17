@@ -1,5 +1,0 @@
-Home – NBATickets.com
-<p class="overlay-text">To allow the NBA to provide local ticket options <button id="location-granted">click here</button>.</p>
-<p>Copyright  NBA Media Ventures, LLC | NBA Media Ventures, LLC.
-               All rights reserved. No portion of this site may be duplicated, redistributed, or manipulated in any form.</p>
-<p>By accessing any information on this site, you agree to abide by the NBA.com Network <a href="http://www.nba.com/news/privacy_policy.html">Privacy Policy</a> and <a href="http://www.nba.com/news/termsofuse.html">Terms of Use</a></p>
