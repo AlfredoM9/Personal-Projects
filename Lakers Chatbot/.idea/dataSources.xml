@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="url_list" uuid="0888d6ff-6763-4fe1-a11f-b01b90963ff4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\OneDrive - The University of Texas at Dallas\Fall\Fall 2020\CS 4395.001\Homework\HW 7 (Chatbot)\url_list.db</jdbc-url>
+    </data-source>
+  </component>
+</project>

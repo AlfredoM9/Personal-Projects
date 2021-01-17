@@ -1,0 +1,12 @@
+NBA Trade Machine - ESPN
+Loading Team Information
+
+
+Post trade to ESPN
+Click on the "Add Team 1" button to add a team to trade.
+You need two teams to start a trade.
+Click on the "Add Team 2" button to add a second team.
+Simply click on a player to trade him to another team.
+If there are 3 or more teams involved select the team you want to trade to from the drop down after clicking on a player.
+The ESPN.com NBA Trade Machine will let you know if your trade works based on the NBA's trade rules!
+Discuss your trade with others on the Trade Machine Conversation page by posting the link provided after trying a trade.

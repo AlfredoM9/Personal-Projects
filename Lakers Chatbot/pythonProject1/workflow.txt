@@ -1,0 +1,21 @@
+# Main
+# Introudction
+#   Get name
+#   Write to SQL DB file
+# Get Input
+#   Get POS
+#   Get subject
+# Is Question? - Determine by rules and ML
+#   Search WIKI with subject
+#   Perform cosine similarity of sentences
+#   If subj not in sent
+#       Get next highest prob
+#       repeat
+#   If prob is low
+#       return nothing
+#   Reply with appropriate response
+# Is Statement?
+#   Get Sentiment
+#   Write down like/dislike
+#   Write to SQL DB
+#   Reply with appropriate response
