@@ -1,0 +1,40 @@
+Best Parameters:
+{
+	logreg_123c65c9ff1a-maxIter: 50,
+	hashingTF_f855c90441e1-numFeatures: 1000,
+	logreg_123c65c9ff1a-regParam: 0.1
+}
+
+Overall Accuracy:
+0.7834882449425916
+
+Confusion Matrix: 
+8647.0  389.0   134.0   
+1351.0  1541.0  207.0   
+785.0   302.0   1276.0  
+
+Precision By Label: 
+Precision(0.0) = 0.8019104145414078
+Precision(1.0) = 0.6904121863799283
+Precision(2.0) = 0.7891156462585034
+
+Recall By Label: 
+Recall(0.0) = 0.9429661941112323
+Recall(1.0) = 0.4972571797353985
+Recall(2.0) = 0.5399915361828185
+
+False Positive Rate By Label: 
+FPR(0.0) = 0.39106554375686564
+FPR(1.0) = 0.05991502644585103
+FPR(2.0) = 0.027793626212405248
+
+F-measure By Label: 
+F1-Score(0.0) = 0.8667368315541523
+F1-Score(1.0) = 0.5781279309697993
+F1-Score(2.0) = 0.6412060301507538
+
+Weighted Stats: 
+Weighted precision: 0.7762292331222629
+Weighted recall: 0.7834882449425915
+Weighted F1 score: 0.7691884262351842
+Weighted false positive rate: 0.2622624413577135

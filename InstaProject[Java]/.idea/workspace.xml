@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="714593ee-3468-424f-874d-9a1391d3eb4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Followers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Following.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Following.txt" afterDir="false" />
-    </list>
+    <list default="true" id="714593ee-3468-424f-874d-9a1391d3eb4f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +53,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New Projects For Resume/Inside_Sherpa_Modules/AlfredoMejia_Module3/Module3_DataCruncher(Java)" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunManager">
@@ -89,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584502038561</updated>
       <workItem from="1609614375239" duration="1978000" />
+      <workItem from="1612496603136" duration="41000" />
     </task>
     <servers />
   </component>
@@ -105,35 +99,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="178" key="FileChooserDialogImpl" timestamp="1586227371065">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1612496639504">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="178" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586227371065" />
-    <state width="724" height="699" key="GridCell.Tab.0.bottom" timestamp="1584546512202">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="724" height="699" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584546512202" />
-    <state width="724" height="699" key="GridCell.Tab.0.center" timestamp="1584546512202">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="724" height="699" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584546512202" />
-    <state width="724" height="699" key="GridCell.Tab.0.left" timestamp="1584546512202">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="724" height="699" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584546512202" />
-    <state width="724" height="699" key="GridCell.Tab.0.right" timestamp="1584546512202">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="724" height="699" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584546512202" />
-    <state x="100" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1586227326807">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="100" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586227326807" />
-    <state x="209" y="60" key="new project wizard" timestamp="1586227384250">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="209" y="60" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1586227384250" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612496639504" />
   </component>
 </project>

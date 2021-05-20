@@ -1,0 +1,12 @@
+Best Parameters: 
+{
+	logreg_165bd212742c-maxIter: 50,
+	hashingTF_0a3b037fb0d3-numFeatures: 1000,
+	logreg_165bd212742c-regParam: 0.1
+}
+Overall Accuracy: 0.7834882449425916
+Confusion Matrix: 
+8647.0  389.0   134.0   
+1351.0  1541.0  207.0   
+785.0   302.0   1276.0  
+Precision By Label 0.0: 0.8019104145414078

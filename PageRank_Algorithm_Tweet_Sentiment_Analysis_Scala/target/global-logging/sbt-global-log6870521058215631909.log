@@ -1,0 +1,6 @@
+[debug] > Exec(show unmanagedBase, None, None)
+[debug] Evaluating tasks: unmanagedBase
+[info] D:\OneDrive - The University of Texas at Dallas\Fall\Fall 2020\CS 6350.002\Assignments\Assignment 2 (Attempt 2)\lib
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

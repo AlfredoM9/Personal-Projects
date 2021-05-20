@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Fall/Fall%202020/CS%206350.002/Assignments/Assignment%202%20(Attempt%202)/"), "assignment-2-attempt-2-")...
+[debug] Done updating ProjectRef(uri("file:/D:/OneDrive%20-%20The%20University%20of%20Texas%20at%20Dallas/Fall/Fall%202020/CS%206350.002/Assignments/Assignment%202%20(Attempt%202)/"), "assignment-2-attempt-2-")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

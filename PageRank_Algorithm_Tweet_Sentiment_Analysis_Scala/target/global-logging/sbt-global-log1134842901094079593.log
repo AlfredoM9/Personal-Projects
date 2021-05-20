@@ -1,0 +1,9 @@
+[debug] > Exec(run PageRanker "June2020_Origin_Dest_Reporting.csv" 10 "outputfile", None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[error] Nonzero exit code: 1
+[error] (Compile / run) Nonzero exit code: 1
+[error] Total time: 8 s, completed Oct 19, 2020 11:09:52 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
